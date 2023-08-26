@@ -1,4 +1,4 @@
-In this QT project I have created a simple application that draws a graph after pressing the button.
+In this QT project I have created a simple application that draws a graph after pressing the button. In this project I have used a library called: *qtcustomplot* . I have used this library to understand how to draw graphs.
 
 *Before pressing the button*
 
