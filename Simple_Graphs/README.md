@@ -7,3 +7,6 @@ In this QT project I have created a simple application that draws a graph after 
 *After pressing the button*
 
 ![Screenshot 2023-08-26 105212](https://github.com/DanMint/QT_Projects/assets/67702241/9a05c7ff-e309-41e7-8a1a-bbfe5df3319a)
+
+
+To run the project unzip the *APP* file and you can run it for your self! (Only works on windows)
